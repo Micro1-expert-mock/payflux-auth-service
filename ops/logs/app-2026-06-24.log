@@ -1,0 +1,472 @@
+2026-06-24T07:55:00Z INFO app service start version=2.13.2 workers=4
+2026-06-24T08:13:37Z INFO app authorize txn=TXN-3F4AAF373BC2 gateway=acmepay network=visa issuer_country=DE
+2026-06-24T08:13:37Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=15159 code=00 txn=TXN-3F4AAF373BC2
+2026-06-24T08:19:51Z INFO app authorize txn=TXN-F2A3CF8CFDCB gateway=acmepay network=mastercard issuer_country=US
+2026-06-24T08:19:51Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=USD amount_minor=8931 code=00 txn=TXN-F2A3CF8CFDCB
+2026-06-24T08:20:40Z INFO app authorize txn=TXN-45F5C3E5E5C9 gateway=acmepay network=visa issuer_country=DE
+2026-06-24T08:20:40Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=9777 code=00 txn=TXN-45F5C3E5E5C9
+2026-06-24T08:22:49Z INFO app authorize txn=TXN-0BB0DFC3C71A gateway=northbridge network=mastercard issuer_country=SG
+2026-06-24T08:22:49Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=45994 code=00 txn=TXN-0BB0DFC3C71A
+2026-06-24T08:24:57Z INFO app authorize txn=TXN-98A91ACFA97C gateway=acmepay network=visa issuer_country=US
+2026-06-24T08:24:57Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=USD amount_minor=10123 code=00 txn=TXN-98A91ACFA97C
+2026-06-24T08:24:59Z INFO app authorize txn=TXN-6E46AD9AC0F0 gateway=acmepay network=visa issuer_country=GB
+2026-06-24T08:24:59Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=GBP amount_minor=15873 code=00 txn=TXN-6E46AD9AC0F0
+2026-06-24T08:32:57Z INFO app authorize txn=TXN-C1435B1968AC gateway=northbridge network=visa issuer_country=IN
+2026-06-24T08:32:57Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=INR amount_minor=788151 code=00 txn=TXN-C1435B1968AC
+2026-06-24T08:36:38Z INFO app authorize txn=TXN-FC7B460F8FA8 gateway=acmepay network=visa issuer_country=GB
+2026-06-24T08:36:38Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=GBP amount_minor=14038 code=00 txn=TXN-FC7B460F8FA8
+2026-06-24T08:46:38Z INFO app authorize txn=TXN-B9BD76C05CF7 gateway=acmepay network=mastercard issuer_country=FR
+2026-06-24T08:46:38Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=25489 code=00 txn=TXN-B9BD76C05CF7
+2026-06-24T08:49:18Z INFO app authorize txn=TXN-72705ABD1D56 gateway=acmepay network=visa issuer_country=US
+2026-06-24T08:49:18Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=USD amount_minor=24750 code=00 txn=TXN-72705ABD1D56
+2026-06-24T08:49:21Z INFO app authorize txn=TXN-8D5976880265 gateway=acmepay network=visa issuer_country=DE
+2026-06-24T08:49:21Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=4817 code=00 txn=TXN-8D5976880265
+2026-06-24T08:51:14Z INFO app authorize txn=TXN-8294D01D71EB gateway=northbridge network=visa issuer_country=AU
+2026-06-24T08:51:14Z INFO gateway.northbridge auth_approved merchant_id=M-1207 currency=AUD amount_minor=47601 code=00 txn=TXN-8294D01D71EB
+2026-06-24T08:52:08Z INFO app authorize txn=TXN-8966A9EFE727 gateway=northbridge network=mastercard issuer_country=SG
+2026-06-24T08:52:08Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=48335 code=00 txn=TXN-8966A9EFE727
+2026-06-24T08:56:53Z INFO app authorize txn=TXN-6338C921853F gateway=northbridge network=mastercard issuer_country=SG
+2026-06-24T08:56:53Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=SGD amount_minor=16672 code=00 txn=TXN-6338C921853F
+2026-06-24T08:59:06Z INFO app authorize txn=TXN-B99E5012DF05 gateway=acmepay network=visa issuer_country=GB
+2026-06-24T08:59:06Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=GBP amount_minor=13335 code=00 txn=TXN-B99E5012DF05
+2026-06-24T09:02:59Z INFO app authorize txn=TXN-0AC8D81862F4 gateway=acmepay network=visa issuer_country=US
+2026-06-24T09:02:59Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=32609 code=00 txn=TXN-0AC8D81862F4
+2026-06-24T09:08:38Z INFO app authorize txn=TXN-DE041AF6E912 gateway=northbridge network=visa issuer_country=AU
+2026-06-24T09:08:38Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=AUD amount_minor=41081 code=00 txn=TXN-DE041AF6E912
+2026-06-24T09:09:14Z INFO app authorize txn=TXN-796CD9BDF0B9 gateway=acmepay network=visa issuer_country=DE
+2026-06-24T09:09:14Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=26325 code=00 txn=TXN-796CD9BDF0B9
+2026-06-24T09:15:57Z WARN gateway.northbridge upstream_latency_high latency_ms=1562 endpoint=/authorize threshold_ms=900
+2026-06-24T09:17:47Z WARN gateway.northbridge upstream_latency_high latency_ms=1158 endpoint=/authorize threshold_ms=900
+2026-06-24T09:19:45Z WARN gateway.northbridge upstream_latency_high latency_ms=2251 endpoint=/authorize threshold_ms=900
+2026-06-24T09:21:42Z WARN gateway.northbridge upstream_latency_high latency_ms=1456 endpoint=/authorize threshold_ms=900
+2026-06-24T09:23:39Z WARN gateway.northbridge upstream_latency_high latency_ms=2013 endpoint=/authorize threshold_ms=900
+2026-06-24T09:25:15Z WARN gateway.northbridge upstream_latency_high latency_ms=2097 endpoint=/authorize threshold_ms=900
+2026-06-24T09:27:11Z WARN gateway.northbridge upstream_latency_high latency_ms=1755 endpoint=/authorize threshold_ms=900
+2026-06-24T09:29:10Z WARN gateway.northbridge upstream_latency_high latency_ms=1462 endpoint=/authorize threshold_ms=900
+2026-06-24T09:31:23Z WARN gateway.northbridge upstream_latency_high latency_ms=1904 endpoint=/authorize threshold_ms=900
+2026-06-24T09:33:12Z WARN gateway.northbridge upstream_latency_high latency_ms=2228 endpoint=/authorize threshold_ms=900
+2026-06-24T09:35:37Z WARN gateway.northbridge upstream_latency_high latency_ms=1310 endpoint=/authorize threshold_ms=900
+2026-06-24T09:37:59Z WARN gateway.northbridge upstream_latency_high latency_ms=1946 endpoint=/authorize threshold_ms=900
+2026-06-24T09:39:06Z WARN gateway.northbridge upstream_latency_high latency_ms=1991 endpoint=/authorize threshold_ms=900
+2026-06-24T09:41:12Z INFO gateway.northbridge upstream_latency_recovered latency_ms=310 endpoint=/authorize
+2026-06-24T13:00:03Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=INR amount_minor=865274 code=00 txn=TXN-F247E75CF30C
+2026-06-24T13:00:03Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=INR amount_minor=410927 code=00 txn=TXN-3258E11D184E
+2026-06-24T13:00:16Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=INR amount_minor=461659 code=00 txn=TXN-4734E43949AA
+2026-06-24T13:00:17Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=13620 code=00 txn=TXN-25BEA97AD5C8
+2026-06-24T13:00:46Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=10542 code=00 txn=TXN-E7CA96A6D9D8
+2026-06-24T13:04:25Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=KRW amount_minor=385964 code=00 txn=TXN-4D1F86C11B75
+2026-06-24T13:04:45Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=INR amount_minor=657564 code=00 txn=TXN-48E2F097EEF7
+2026-06-24T13:04:51Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=EUR amount_minor=27646 code=00 txn=TXN-EABCE77F5882
+2026-06-24T13:08:02Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=INR amount_minor=678185 code=00 txn=TXN-6BB73DC8BCC4
+2026-06-24T13:08:20Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=GBP amount_minor=4354 code=00 txn=TXN-FB2E3D01F0AB
+2026-06-24T13:08:50Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=USD amount_minor=11463 code=00 txn=TXN-FB011519452A
+2026-06-24T13:10:10Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=GBP amount_minor=17965 code=00 txn=TXN-A0D0C394CA28
+2026-06-24T13:10:26Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=11004 code=00 txn=TXN-54CF7EBD4A91
+2026-06-24T13:10:50Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=GBP amount_minor=17844 code=00 txn=TXN-0F792A34DFA4
+2026-06-24T13:10:55Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=USD amount_minor=28940 code=00 txn=TXN-7F4F3A7A6AAE
+2026-06-24T13:12:00Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=KRW amount_minor=327240 code=00 txn=TXN-B973529A3050
+2026-06-24T13:12:00Z INFO gateway.northbridge auth_declined merchant_id=M-6612 currency=INR amount_minor=481548 code=54 reason=expired_card txn=TXN-B361E1A73D79
+2026-06-24T13:12:01Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=USD amount_minor=24497 code=00 txn=TXN-EB23B0D77BC0
+2026-06-24T13:12:29Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=KRW amount_minor=197653 code=00 txn=TXN-2CFD4247DD3F
+2026-06-24T13:12:48Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=49606 code=00 txn=TXN-3D8BB7B8A343
+2026-06-24T13:16:50Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=USD amount_minor=640 code=00 txn=TXN-9C026C72AD7A
+2026-06-24T13:16:56Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=USD amount_minor=30770 code=00 txn=TXN-0FA49662E4C8
+2026-06-24T13:16:56Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=SGD amount_minor=47307 code=00 txn=TXN-CCF9944537D8
+2026-06-24T13:18:28Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=KRW amount_minor=24343 code=00 txn=TXN-0A74C95DBAC6
+2026-06-24T13:18:31Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=INR amount_minor=256111 code=00 txn=TXN-8B2D285737D6
+2026-06-24T13:18:49Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=GBP amount_minor=2395 code=00 txn=TXN-69A0FA7044DB
+2026-06-24T13:18:51Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=34526 code=00 txn=TXN-2DA585ECD51B
+2026-06-24T13:18:56Z INFO gateway.northbridge auth_declined merchant_id=M-1450 currency=AUD amount_minor=25061 code=54 reason=expired_card txn=TXN-E1607AEC91B4
+2026-06-24T13:22:31Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=GBP amount_minor=20539 code=00 txn=TXN-467187E8FDB6
+2026-06-24T13:22:35Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=9706 code=00 txn=TXN-DFE8ECC0B9A7
+2026-06-24T13:22:52Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=EUR amount_minor=29133 code=00 txn=TXN-66836C8AED0B
+2026-06-24T13:22:56Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=5779 code=00 txn=TXN-789C09C8277B
+2026-06-24T13:24:12Z INFO gateway.northbridge auth_declined merchant_id=M-1207 currency=AUD amount_minor=17965 code=51 reason=insufficient_funds txn=TXN-1AA8F32851D0
+2026-06-24T13:24:38Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=USD amount_minor=9516 code=00 txn=TXN-FBB754B5B5A0
+2026-06-24T13:24:47Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=AUD amount_minor=25497 code=00 txn=TXN-DA229B81D79D
+2026-06-24T13:28:21Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=KRW amount_minor=218691 code=00 txn=TXN-F936EBE125C0
+2026-06-24T13:28:25Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=USD amount_minor=39552 code=00 txn=TXN-FAE0C77830EC
+2026-06-24T13:28:35Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=SGD amount_minor=41917 code=00 txn=TXN-4E4C3CD7656E
+2026-06-24T13:30:40Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=USD amount_minor=28698 code=00 txn=TXN-20C2BA126D6C
+2026-06-24T13:30:47Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=JPY amount_minor=32748 code=00 txn=TXN-38A1998C1006
+2026-06-24T13:30:50Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=EUR amount_minor=17622 code=00 txn=TXN-AF4E5FD622C2
+2026-06-24T13:30:54Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=KRW amount_minor=383036 code=00 txn=TXN-A0BB2465CCD0
+2026-06-24T13:34:14Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=USD amount_minor=30416 code=00 txn=TXN-723B2F21EBA4
+2026-06-24T13:34:19Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=AUD amount_minor=29424 code=00 txn=TXN-A44309EE5B15
+2026-06-24T13:34:22Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=EUR amount_minor=20469 code=00 txn=TXN-7EC487CF2C6D
+2026-06-24T13:34:31Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=GBP amount_minor=23438 code=00 txn=TXN-BC39CD87B89F
+2026-06-24T13:34:36Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=29616 code=00 txn=TXN-E870430F4122
+2026-06-24T13:38:11Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=46964 code=00 txn=TXN-A50BA3B7213F
+2026-06-24T13:38:26Z INFO gateway.acmepay auth_declined merchant_id=M-9021 currency=USD amount_minor=34972 code=14 reason=invalid_card txn=TXN-1AA5F9BD6579
+2026-06-24T13:38:37Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=INR amount_minor=572654 code=00 txn=TXN-9EBE9D866285
+2026-06-24T13:38:40Z INFO gateway.northbridge auth_declined merchant_id=M-4821 currency=INR amount_minor=90350 code=14 reason=invalid_card txn=TXN-365A0A73C7DF
+2026-06-24T13:38:43Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=33371 code=00 txn=TXN-1236138EACEF
+2026-06-24T13:40:16Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=14334 code=00 txn=TXN-C9578B346A9A
+2026-06-24T13:40:19Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=GBP amount_minor=4523 code=00 txn=TXN-3D28D43F899C
+2026-06-24T13:40:29Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=GBP amount_minor=3064 code=00 txn=TXN-B22B1FA86281
+2026-06-24T13:44:17Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=AUD amount_minor=31442 code=00 txn=TXN-99B13CEBF450
+2026-06-24T13:44:22Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=31969 code=00 txn=TXN-0C7D1B497F12
+2026-06-24T13:44:26Z INFO gateway.acmepay auth_declined merchant_id=M-1450 currency=USD amount_minor=14381 code=51 reason=insufficient_funds txn=TXN-C411714FA1AE
+2026-06-24T13:44:27Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=10232 code=00 txn=TXN-9DF09DAF18E6
+2026-06-24T13:48:41Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=6327 code=00 txn=TXN-C1B8DC974F67
+2026-06-24T13:48:48Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=USD amount_minor=22792 code=00 txn=TXN-3546385F61E8
+2026-06-24T13:48:54Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=JPY amount_minor=30503 code=00 txn=TXN-83BBB309A04E
+2026-06-24T13:51:06Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=USD amount_minor=7314 code=00 txn=TXN-F048B5CE7059
+2026-06-24T13:51:23Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=JPY amount_minor=3624 code=00 txn=TXN-C8D05C80A30B
+2026-06-24T13:51:43Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=KRW amount_minor=154560 code=00 txn=TXN-BE50E7869629
+2026-06-24T13:51:50Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=AUD amount_minor=13497 code=00 txn=TXN-9D62FCAFB6BC
+2026-06-24T13:51:51Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=KRW amount_minor=152282 code=00 txn=TXN-1AF07013F9FA
+2026-06-24T13:55:22Z INFO gateway.northbridge auth_declined merchant_id=M-1450 currency=SGD amount_minor=7013 code=54 reason=expired_card txn=TXN-59B5B5D70C32
+2026-06-24T13:55:48Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=AUD amount_minor=19147 code=00 txn=TXN-57256BD987BF
+2026-06-24T13:55:48Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=USD amount_minor=26910 code=00 txn=TXN-CE10136A08E7
+2026-06-24T13:57:00Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=EUR amount_minor=16098 code=00 txn=TXN-D25188F1D609
+2026-06-24T13:57:35Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=JPY amount_minor=15650 code=00 txn=TXN-440684E2EB7A
+2026-06-24T13:57:38Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=INR amount_minor=753755 code=00 txn=TXN-A70EAB1766CD
+2026-06-24T14:00:04Z INFO app deploy rollout started release=v2.14.0
+2026-06-24T14:01:11Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=19503 code=00 txn=TXN-722BA7E83052
+2026-06-24T14:01:15Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=SGD amount_minor=33469 code=00 txn=TXN-32FC935E8FCD
+2026-06-24T14:01:24Z INFO gateway.acmepay auth_declined merchant_id=M-2098 currency=EUR amount_minor=18466 code=54 reason=expired_card txn=TXN-A02B92B5F180
+2026-06-24T14:01:48Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=INR amount_minor=729399 code=00 txn=TXN-83E5228C5B5D
+2026-06-24T14:05:02Z INFO gateway.northbridge auth_approved merchant_id=M-1450 currency=AUD amount_minor=35632 code=00 txn=TXN-F611ACFECD31
+2026-06-24T14:05:29Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=23390 code=00 txn=TXN-951831CF6B5A
+2026-06-24T14:05:42Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=EUR amount_minor=9894 code=00 txn=TXN-EA754EA3B97A
+2026-06-24T14:05:45Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=EUR amount_minor=14197 code=00 txn=TXN-E17EDE50375E
+2026-06-24T14:05:54Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=AUD amount_minor=6798 code=00 txn=TXN-496FBE192205
+2026-06-24T14:07:21Z INFO app deploy rollout complete release=v2.14.0 instances=6/6
+2026-06-24T14:07:30Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=JPY amount_minor=1241500 code=13 reason=amount_invalid txn=TXN-5B017574EDAD
+2026-06-24T14:07:49Z INFO gateway.acmepay auth_declined merchant_id=M-8890 currency=EUR amount_minor=17479 code=14 reason=invalid_card txn=TXN-1B6CA5339BCC
+2026-06-24T14:08:01Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=INR amount_minor=241315 code=00 txn=TXN-1959066E1CB0
+2026-06-24T14:08:24Z ERROR gateway.acmepay auth_declined merchant_id=M-2098 currency=JPY amount_minor=4741800 code=13 reason=amount_invalid txn=TXN-90B4798AD049
+2026-06-24T14:08:33Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=18660 code=00 txn=TXN-788DB531F389
+2026-06-24T14:08:40Z INFO gateway.acmepay auth_declined merchant_id=M-4821 currency=EUR amount_minor=20441 code=54 reason=expired_card txn=TXN-5ABE9D64CA24
+2026-06-24T14:08:46Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=KRW amount_minor=2818300 code=13 reason=amount_invalid txn=TXN-1F455E06C147
+2026-06-24T14:08:48Z ERROR gateway.acmepay auth_declined merchant_id=M-7734 currency=JPY amount_minor=544600 code=13 reason=amount_exceeds_limit txn=TXN-EF7CA454F43B
+2026-06-24T14:09:17Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=4667800 code=13 reason=amount_invalid txn=TXN-8BA9E8E993F5
+2026-06-24T14:09:18Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=9675 code=00 txn=TXN-A96F136A115E
+2026-06-24T14:09:28Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=GBP amount_minor=22468 code=00 txn=TXN-3814D16CC85B
+2026-06-24T14:10:53Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=USD amount_minor=20470 code=00 txn=TXN-703DDED8E601
+2026-06-24T14:10:59Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=12393100 code=13 reason=amount_invalid txn=TXN-7A5E2C0E888B
+2026-06-24T14:11:01Z ERROR gateway.acmepay auth_declined merchant_id=M-1207 currency=JPY amount_minor=1505400 code=13 reason=amount_invalid txn=TXN-71F7BB28E5A1
+2026-06-24T14:11:26Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=EUR amount_minor=11938 code=00 txn=TXN-B69A03B75FE7
+2026-06-24T14:11:28Z INFO gateway.northbridge auth_declined merchant_id=M-3390 currency=AUD amount_minor=25151 code=14 reason=invalid_card txn=TXN-37EEA405680E
+2026-06-24T14:12:33Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=JPY amount_minor=4747900 code=13 reason=amount_invalid txn=TXN-8E93B5113AB8
+2026-06-24T14:12:56Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=13038 code=00 txn=TXN-63C9BFE0DF98
+2026-06-24T14:13:16Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=792800 code=13 reason=amount_invalid txn=TXN-C0465DD4EE1F
+2026-06-24T14:13:17Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=INR amount_minor=287959 code=00 txn=TXN-19577A1AAA3E
+2026-06-24T14:13:28Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=EUR amount_minor=20955 code=00 txn=TXN-5951B082DCBC
+2026-06-24T14:14:35Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=KRW amount_minor=30215300 code=13 reason=amount_invalid txn=TXN-06A18483766D
+2026-06-24T14:14:49Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=13334 code=00 txn=TXN-F9CE1A6E8B5A
+2026-06-24T14:15:02Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=EUR amount_minor=31877 code=00 txn=TXN-CEC238049DD6
+2026-06-24T14:15:11Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=28523600 code=13 reason=amount_invalid txn=TXN-D7AB4D4D4427
+2026-06-24T14:16:32Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=18746 code=00 txn=TXN-FBDEEDC18D05
+2026-06-24T14:16:43Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=GBP amount_minor=19765 code=00 txn=TXN-D5706FFE07F4
+2026-06-24T14:16:51Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=30752300 code=13 reason=amount_invalid txn=TXN-B0634D133C68
+2026-06-24T14:16:57Z ERROR gateway.northbridge auth_declined merchant_id=M-9021 currency=JPY amount_minor=3988000 code=13 reason=amount_exceeds_limit txn=TXN-4C74CDEB28F3
+2026-06-24T14:16:59Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=GBP amount_minor=15515 code=00 txn=TXN-6C8327CD44E9
+2026-06-24T14:17:30Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=SGD amount_minor=14069 code=00 txn=TXN-824155BF5604
+2026-06-24T14:17:35Z ERROR gateway.acmepay auth_declined merchant_id=M-5540 currency=JPY amount_minor=958400 code=13 reason=amount_invalid txn=TXN-7B761193CA76
+2026-06-24T14:17:48Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=SGD amount_minor=11548 code=00 txn=TXN-FE2092094B3B
+2026-06-24T14:18:04Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=KRW amount_minor=34599900 code=13 reason=amount_invalid txn=TXN-829F6C4E7EFE
+2026-06-24T14:18:16Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=5465600 code=13 reason=amount_invalid txn=TXN-6493CB00A11E
+2026-06-24T14:18:21Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=3857 code=00 txn=TXN-91C257ECC3A4
+2026-06-24T14:18:28Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=755900 code=13 reason=amount_invalid txn=TXN-D443244DF65B
+2026-06-24T14:20:36Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=10634600 code=13 reason=amount_exceeds_limit txn=TXN-BDB71F68F329
+2026-06-24T14:21:01Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=USD amount_minor=23462 code=00 txn=TXN-8D507FFB12CD
+2026-06-24T14:21:14Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=KRW amount_minor=10596100 code=13 reason=amount_invalid txn=TXN-8E22BC997842
+2026-06-24T14:21:17Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=21150 code=00 txn=TXN-8F37D46F6D19
+2026-06-24T14:22:33Z ERROR gateway.acmepay auth_declined merchant_id=M-7734 currency=JPY amount_minor=5609500 code=13 reason=amount_exceeds_limit txn=TXN-6FF97CC7972F
+2026-06-24T14:22:39Z INFO gateway.northbridge auth_approved merchant_id=M-1207 currency=SGD amount_minor=28184 code=00 txn=TXN-45ED3E3C92CE
+2026-06-24T14:22:40Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=GBP amount_minor=966 code=00 txn=TXN-CFD0678E5BBA
+2026-06-24T14:22:47Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=AUD amount_minor=19334 code=00 txn=TXN-C510186A7E2E
+2026-06-24T14:23:17Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=3335900 code=13 reason=amount_exceeds_limit txn=TXN-A8E0D798C9E8
+2026-06-24T14:24:39Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=GBP amount_minor=22952 code=00 txn=TXN-8A7081CEFEC8
+2026-06-24T14:24:52Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=531600 code=13 reason=amount_exceeds_limit txn=TXN-B8982E44C8BE
+2026-06-24T14:24:57Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=EUR amount_minor=26932 code=00 txn=TXN-3DDCA13769BC
+2026-06-24T14:25:16Z INFO gateway.acmepay auth_declined merchant_id=M-3390 currency=USD amount_minor=3568 code=51 reason=insufficient_funds txn=TXN-2A90F463C5C0
+2026-06-24T14:25:21Z ERROR gateway.acmepay auth_declined merchant_id=M-6612 currency=JPY amount_minor=700800 code=13 reason=amount_invalid txn=TXN-8666BD40F2E0
+2026-06-24T14:25:40Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=KRW amount_minor=3208600 code=13 reason=amount_invalid txn=TXN-AE3D4984DC4B
+2026-06-24T14:25:50Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=5772800 code=13 reason=amount_exceeds_limit txn=TXN-F2B3A44AF59D
+2026-06-24T14:25:51Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=AUD amount_minor=49665 code=00 txn=TXN-C844DAC233CD
+2026-06-24T14:25:53Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=GBP amount_minor=27116 code=00 txn=TXN-16E55AA91181
+2026-06-24T14:25:57Z ERROR gateway.acmepay auth_declined merchant_id=M-1450 currency=JPY amount_minor=4140300 code=13 reason=amount_invalid txn=TXN-0732C3F4BD28
+2026-06-24T14:26:00Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=11372700 code=13 reason=amount_invalid txn=TXN-DC72FB4CC476
+2026-06-24T14:26:10Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=20433 code=00 txn=TXN-0B3EF2675821
+2026-06-24T14:26:13Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=INR amount_minor=563667 code=00 txn=TXN-4C98C8CEFDDE
+2026-06-24T14:27:33Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=13693800 code=13 reason=amount_invalid txn=TXN-CC04C286BD11
+2026-06-24T14:27:37Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=5789700 code=13 reason=amount_invalid txn=TXN-0B44CCBF47A2
+2026-06-24T14:27:53Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=EUR amount_minor=4961 code=00 txn=TXN-59445A091BF1
+2026-06-24T14:27:55Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=29596400 code=13 reason=amount_invalid txn=TXN-1B3F6E3E0EF9
+2026-06-24T14:28:01Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=25899 code=00 txn=TXN-13B6AF4B2757
+2026-06-24T14:28:15Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=JPY amount_minor=2691700 code=13 reason=amount_invalid txn=TXN-F4FEC2E126F2
+2026-06-24T14:28:16Z INFO gateway.northbridge auth_approved merchant_id=M-1207 currency=SGD amount_minor=39663 code=00 txn=TXN-CA4BE6EBC7F0
+2026-06-24T14:28:25Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=SGD amount_minor=1739 code=00 txn=TXN-413F2BEEF31C
+2026-06-24T14:30:32Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=AUD amount_minor=29505 code=00 txn=TXN-3CF06A1C41FC
+2026-06-24T14:30:34Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=5804900 code=13 reason=amount_exceeds_limit txn=TXN-CC1A75B3FAB3
+2026-06-24T14:30:44Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=3430600 code=13 reason=amount_invalid txn=TXN-87D3AA6AE377
+2026-06-24T14:30:56Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=152400 code=13 reason=amount_invalid txn=TXN-425AF88D53C7
+2026-06-24T14:31:22Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=USD amount_minor=6758 code=00 txn=TXN-CB34BAA154A0
+2026-06-24T14:33:41Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=28120700 code=13 reason=amount_invalid txn=TXN-51FDBBA887DD
+2026-06-24T14:33:43Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=JPY amount_minor=430000 code=13 reason=amount_exceeds_limit txn=TXN-47B9E2F38F43
+2026-06-24T14:33:51Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=USD amount_minor=39828 code=00 txn=TXN-BB9CAA1EE9A5
+2026-06-24T14:34:01Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=4461900 code=13 reason=amount_exceeds_limit txn=TXN-4FC29C8211DD
+2026-06-24T14:34:07Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=INR amount_minor=421187 code=00 txn=TXN-8C868B623355
+2026-06-24T14:34:19Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=8073 code=00 txn=TXN-53D4FBD35341
+2026-06-24T14:34:21Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=17354 code=00 txn=TXN-628B07205FD7
+2026-06-24T14:35:30Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=4142500 code=13 reason=amount_invalid txn=TXN-B9B8A6505530
+2026-06-24T14:35:40Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=SGD amount_minor=42097 code=00 txn=TXN-4E10BF9A529C
+2026-06-24T14:35:47Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=GBP amount_minor=17022 code=00 txn=TXN-CD3450AABDC7
+2026-06-24T14:36:00Z ERROR gateway.acmepay auth_declined merchant_id=M-7734 currency=JPY amount_minor=752200 code=13 reason=amount_invalid txn=TXN-EA8D40CF5242
+2026-06-24T14:36:07Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=GBP amount_minor=591 code=00 txn=TXN-A06ACB81D2B8
+2026-06-24T14:36:26Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=AUD amount_minor=46852 code=00 txn=TXN-6BBBCBBFF8C9
+2026-06-24T14:36:30Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=8922700 code=13 reason=amount_invalid txn=TXN-9291918C2082
+2026-06-24T14:36:42Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=15038 code=00 txn=TXN-571A7667E04F
+2026-06-24T14:36:44Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=38281900 code=13 reason=amount_exceeds_limit txn=TXN-32DFA2ECD009
+2026-06-24T14:37:00Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=39413 code=00 txn=TXN-09A82272BAE8
+2026-06-24T14:37:01Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=5812100 code=13 reason=amount_exceeds_limit txn=TXN-F63068483058
+2026-06-24T14:37:05Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=2538300 code=13 reason=amount_invalid txn=TXN-5D71E9319103
+2026-06-24T14:39:57Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=JPY amount_minor=2419000 code=13 reason=amount_invalid txn=TXN-E0B8B9299F9E
+2026-06-24T14:39:59Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=794300 code=13 reason=amount_exceeds_limit txn=TXN-10DED9A23C22
+2026-06-24T14:40:09Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=SGD amount_minor=19719 code=00 txn=TXN-4A709C7F33F8
+2026-06-24T14:40:14Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=EUR amount_minor=4618 code=00 txn=TXN-5BD5EA227049
+2026-06-24T14:40:20Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=27606 code=00 txn=TXN-869B40549BB4
+2026-06-24T14:40:29Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=1258 code=00 txn=TXN-E46F5B05945E
+2026-06-24T14:40:36Z ERROR gateway.acmepay auth_declined merchant_id=M-4821 currency=JPY amount_minor=1113100 code=13 reason=amount_invalid txn=TXN-6B00076A5D33
+2026-06-24T14:40:38Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=16920 code=00 txn=TXN-3F2D118C03B2
+2026-06-24T14:40:39Z ERROR gateway.acmepay auth_declined merchant_id=M-4821 currency=JPY amount_minor=934600 code=13 reason=amount_exceeds_limit txn=TXN-6002134E182F
+2026-06-24T14:40:59Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=20620 code=00 txn=TXN-9AE738BC6372
+2026-06-24T14:41:03Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=INR amount_minor=874512 code=00 txn=TXN-617FF89E573C
+2026-06-24T14:41:05Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=INR amount_minor=157915 code=00 txn=TXN-E85BD7EB5D65
+2026-06-24T14:41:45Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=USD amount_minor=39189 code=00 txn=TXN-D49DDF4017AE
+2026-06-24T14:42:08Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=5496700 code=13 reason=amount_invalid txn=TXN-D1C181BF25FC
+2026-06-24T14:42:11Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=33099500 code=13 reason=amount_exceeds_limit txn=TXN-7C2B4ABC7AC4
+2026-06-24T14:42:21Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=EUR amount_minor=19386 code=00 txn=TXN-1279C2565B04
+2026-06-24T14:42:22Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=KRW amount_minor=16663300 code=13 reason=amount_exceeds_limit txn=TXN-3C776E0BA3EA
+2026-06-24T14:42:29Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=39620600 code=13 reason=amount_exceeds_limit txn=TXN-E8576BDE41AD
+2026-06-24T14:43:43Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=32754 code=00 txn=TXN-3C7A993D9889
+2026-06-24T14:43:46Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=KRW amount_minor=25796600 code=13 reason=amount_exceeds_limit txn=TXN-18D6A5EA64C9
+2026-06-24T14:43:47Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=JPY amount_minor=3498300 code=13 reason=amount_exceeds_limit txn=TXN-D6021DDFCA26
+2026-06-24T14:43:47Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=KRW amount_minor=39934900 code=13 reason=amount_exceeds_limit txn=TXN-6C76592E2A9E
+2026-06-24T14:44:18Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=4137400 code=13 reason=amount_invalid txn=TXN-59CF0B232C94
+2026-06-24T14:44:22Z INFO gateway.northbridge auth_declined merchant_id=M-8890 currency=SGD amount_minor=15038 code=54 reason=expired_card txn=TXN-860A33CB90C5
+2026-06-24T14:44:45Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=GBP amount_minor=13008 code=00 txn=TXN-40F78115D9A1
+2026-06-24T14:44:50Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=JPY amount_minor=4200700 code=13 reason=amount_exceeds_limit txn=TXN-DEA5C69C3114
+2026-06-24T14:45:09Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=KRW amount_minor=27282400 code=13 reason=amount_invalid txn=TXN-1906E4E320BC
+2026-06-24T14:45:15Z INFO gateway.northbridge auth_approved merchant_id=M-1450 currency=INR amount_minor=272752 code=00 txn=TXN-944D0E854228
+2026-06-24T14:45:28Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=KRW amount_minor=5771600 code=13 reason=amount_invalid txn=TXN-2447D287EA15
+2026-06-24T14:46:31Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=JPY amount_minor=4868900 code=13 reason=amount_invalid txn=TXN-3DCD1EF254B9
+2026-06-24T14:46:31Z ERROR gateway.acmepay auth_declined merchant_id=M-7734 currency=JPY amount_minor=4499000 code=13 reason=amount_exceeds_limit txn=TXN-35DAC0BC4ACA
+2026-06-24T14:46:40Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=SGD amount_minor=23997 code=00 txn=TXN-FE763218B022
+2026-06-24T14:46:57Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=1219 code=00 txn=TXN-9D32982EFBFC
+2026-06-24T14:46:59Z ERROR gateway.northbridge auth_declined merchant_id=M-6612 currency=JPY amount_minor=1886900 code=13 reason=amount_exceeds_limit txn=TXN-B8CCA00B5459
+2026-06-24T14:47:03Z ERROR gateway.acmepay auth_declined merchant_id=M-6612 currency=JPY amount_minor=3091400 code=13 reason=amount_invalid txn=TXN-5CDF02849ECC
+2026-06-24T14:47:18Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=EUR amount_minor=11355 code=00 txn=TXN-7577FDE75C38
+2026-06-24T14:48:04Z ERROR gateway.acmepay auth_declined merchant_id=M-4821 currency=JPY amount_minor=2723100 code=13 reason=amount_invalid txn=TXN-F3446FD5AB31
+2026-06-24T14:48:14Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=1664500 code=13 reason=amount_exceeds_limit txn=TXN-1828CA111A63
+2026-06-24T14:48:22Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=13760 code=00 txn=TXN-FD5C217A1A84
+2026-06-24T14:48:22Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=AUD amount_minor=1060 code=00 txn=TXN-0C54D2180912
+2026-06-24T14:48:27Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=185900 code=13 reason=amount_invalid txn=TXN-34EDB68EF6AD
+2026-06-24T14:48:28Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=SGD amount_minor=12235 code=00 txn=TXN-4483EEEFC97F
+2026-06-24T14:48:31Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=3097500 code=13 reason=amount_invalid txn=TXN-14677F721DA0
+2026-06-24T14:48:40Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=EUR amount_minor=30315 code=00 txn=TXN-FC6D5608150D
+2026-06-24T14:48:43Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=SGD amount_minor=11326 code=00 txn=TXN-C9C1887F3137
+2026-06-24T14:48:59Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=15178500 code=13 reason=amount_invalid txn=TXN-E60751C513FA
+2026-06-24T14:49:14Z ERROR gateway.acmepay auth_declined merchant_id=M-7734 currency=JPY amount_minor=358000 code=13 reason=amount_invalid txn=TXN-3587D348CC23
+2026-06-24T14:51:42Z INFO gateway.acmepay auth_declined merchant_id=M-7734 currency=USD amount_minor=20828 code=05 reason=do_not_honor txn=TXN-AD0A1691DE72
+2026-06-24T14:51:52Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=GBP amount_minor=15672 code=00 txn=TXN-1FFE22038816
+2026-06-24T14:51:56Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=JPY amount_minor=3443100 code=13 reason=amount_invalid txn=TXN-CCD71D612A3D
+2026-06-24T14:52:02Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=SGD amount_minor=1854 code=00 txn=TXN-D10489ECC17B
+2026-06-24T14:52:02Z ERROR gateway.acmepay auth_declined merchant_id=M-9021 currency=JPY amount_minor=1095800 code=13 reason=amount_invalid txn=TXN-4A19F299D6B5
+2026-06-24T14:52:08Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=INR amount_minor=404653 code=00 txn=TXN-1ED79EEDBE67
+2026-06-24T14:52:26Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=7862800 code=13 reason=amount_invalid txn=TXN-8FC14832E31F
+2026-06-24T14:53:39Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=INR amount_minor=788131 code=00 txn=TXN-DDB28715EC5A
+2026-06-24T14:53:50Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=KRW amount_minor=3995300 code=13 reason=amount_invalid txn=TXN-4EDCA394664A
+2026-06-24T14:53:55Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=JPY amount_minor=2884100 code=13 reason=amount_invalid txn=TXN-D3B8571D845A
+2026-06-24T14:54:04Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=3881800 code=13 reason=amount_exceeds_limit txn=TXN-BDE64C4067B5
+2026-06-24T14:54:17Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=EUR amount_minor=595 code=00 txn=TXN-330F80569DC2
+2026-06-24T14:54:18Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=INR amount_minor=117841 code=00 txn=TXN-1F4DBE378943
+2026-06-24T14:54:26Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=15803 code=00 txn=TXN-2B68622C8654
+2026-06-24T14:54:42Z INFO gateway.acmepay auth_declined merchant_id=M-5540 currency=USD amount_minor=20486 code=51 reason=insufficient_funds txn=TXN-E854F33D576C
+2026-06-24T14:54:46Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=30440500 code=13 reason=amount_invalid txn=TXN-CA6F1CF00A1E
+2026-06-24T14:54:53Z ERROR gateway.acmepay auth_declined merchant_id=M-1450 currency=JPY amount_minor=1533500 code=13 reason=amount_invalid txn=TXN-3D4EFD72BF16
+2026-06-24T14:54:59Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=AUD amount_minor=18048 code=00 txn=TXN-3C4292433C4E
+2026-06-24T14:55:35Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=14912 code=00 txn=TXN-DA8BF7B6F570
+2026-06-24T14:55:40Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=JPY amount_minor=677100 code=13 reason=amount_invalid txn=TXN-83CEE9ABAC86
+2026-06-24T14:55:55Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=USD amount_minor=6741 code=00 txn=TXN-7E2551204D8E
+2026-06-24T14:56:02Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=4201200 code=13 reason=amount_invalid txn=TXN-3D035E8B8C75
+2026-06-24T14:56:11Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=17648100 code=13 reason=amount_invalid txn=TXN-9D4A827FEF3A
+2026-06-24T14:56:18Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=29655 code=00 txn=TXN-8409B902EFF1
+2026-06-24T14:56:27Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=EUR amount_minor=23357 code=00 txn=TXN-006585AD9783
+2026-06-24T14:57:50Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=572000 code=13 reason=amount_invalid txn=TXN-1FDAB6D27DB2
+2026-06-24T14:58:00Z ERROR gateway.northbridge auth_declined merchant_id=M-6612 currency=KRW amount_minor=22645700 code=13 reason=amount_invalid txn=TXN-C141C440C063
+2026-06-24T14:58:08Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=JPY amount_minor=1971700 code=13 reason=amount_invalid txn=TXN-D79C6E6F1109
+2026-06-24T14:58:16Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=USD amount_minor=20098 code=00 txn=TXN-E9FB698B1546
+2026-06-24T14:58:21Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=USD amount_minor=28500 code=00 txn=TXN-F1D1B08050FB
+2026-06-24T14:58:26Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=JPY amount_minor=1249900 code=13 reason=amount_exceeds_limit txn=TXN-C204562D6C71
+2026-06-24T15:00:33Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=SGD amount_minor=29759 code=00 txn=TXN-63B0CC25B310
+2026-06-24T15:00:42Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=31108500 code=13 reason=amount_exceeds_limit txn=TXN-EEF9AF65AC9C
+2026-06-24T15:00:57Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=29279700 code=13 reason=amount_invalid txn=TXN-97FB93FDEC63
+2026-06-24T15:00:59Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=34218000 code=13 reason=amount_invalid txn=TXN-DE6EAEF11D3F
+2026-06-24T15:01:08Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=25009 code=00 txn=TXN-E7941B701F08
+2026-06-24T15:01:25Z ERROR gateway.acmepay auth_declined merchant_id=M-6612 currency=JPY amount_minor=5946300 code=13 reason=amount_exceeds_limit txn=TXN-BF1F7097FE97
+2026-06-24T15:01:44Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=5199800 code=13 reason=amount_invalid txn=TXN-2E6C01090662
+2026-06-24T15:01:48Z ERROR gateway.northbridge auth_declined merchant_id=M-6612 currency=KRW amount_minor=31968200 code=13 reason=amount_exceeds_limit txn=TXN-09E7AC9C2468
+2026-06-24T15:01:58Z INFO gateway.northbridge auth_approved merchant_id=M-1207 currency=INR amount_minor=291386 code=00 txn=TXN-7D4659825252
+2026-06-24T15:02:03Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=13260 code=00 txn=TXN-826FB9449CC4
+2026-06-24T15:02:10Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=SGD amount_minor=13299 code=00 txn=TXN-4F0CDA6DDBF7
+2026-06-24T15:02:39Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=894000 code=13 reason=amount_invalid txn=TXN-0CD335401DD5
+2026-06-24T15:02:41Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=EUR amount_minor=23619 code=00 txn=TXN-C589E0D01EBB
+2026-06-24T15:02:52Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=26562 code=00 txn=TXN-5AD9E4436456
+2026-06-24T15:03:08Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=10314000 code=13 reason=amount_invalid txn=TXN-30DEAB492BDA
+2026-06-24T15:03:18Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=EUR amount_minor=27167 code=00 txn=TXN-19B00AE9C3B0
+2026-06-24T15:03:18Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=1682900 code=13 reason=amount_invalid txn=TXN-D2CC8386A686
+2026-06-24T15:03:30Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=JPY amount_minor=2066700 code=13 reason=amount_exceeds_limit txn=TXN-4DC3C6283338
+2026-06-24T15:03:41Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=29587000 code=13 reason=amount_exceeds_limit txn=TXN-5EB22DC2F170
+2026-06-24T15:03:49Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=15931 code=00 txn=TXN-23BE3ABFEB99
+2026-06-24T15:03:52Z ERROR gateway.acmepay auth_declined merchant_id=M-2098 currency=JPY amount_minor=5867000 code=13 reason=amount_invalid txn=TXN-5A2B25EE8DFB
+2026-06-24T15:04:09Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=GBP amount_minor=27272 code=00 txn=TXN-45FC83E9F60E
+2026-06-24T15:04:21Z ERROR gateway.acmepay auth_declined merchant_id=M-1207 currency=JPY amount_minor=3585000 code=13 reason=amount_invalid txn=TXN-5B0A742E3919
+2026-06-24T15:06:38Z ERROR gateway.northbridge auth_declined merchant_id=M-9021 currency=KRW amount_minor=38577500 code=13 reason=amount_exceeds_limit txn=TXN-18F81E020103
+2026-06-24T15:06:44Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=23859 code=00 txn=TXN-E3E78D6E346E
+2026-06-24T15:06:47Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=9786600 code=13 reason=amount_invalid txn=TXN-486E2E60B15E
+2026-06-24T15:07:02Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=30491 code=00 txn=TXN-D007601C7C25
+2026-06-24T15:07:25Z ERROR gateway.northbridge auth_declined merchant_id=M-9021 currency=KRW amount_minor=33468200 code=13 reason=amount_invalid txn=TXN-E8DBA935EDE2
+2026-06-24T15:07:55Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=9181 code=00 txn=TXN-0FC4D3192964
+2026-06-24T15:08:10Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=SGD amount_minor=1841 code=00 txn=TXN-C6BE255AD2F6
+2026-06-24T15:08:21Z ERROR gateway.acmepay auth_declined merchant_id=M-9021 currency=JPY amount_minor=5187200 code=13 reason=amount_exceeds_limit txn=TXN-02AF0FEA2E71
+2026-06-24T15:08:24Z ERROR gateway.acmepay auth_declined merchant_id=M-5540 currency=JPY amount_minor=3810200 code=13 reason=amount_exceeds_limit txn=TXN-E8329C2B9EF9
+2026-06-24T15:08:41Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=11602300 code=13 reason=amount_invalid txn=TXN-1D62DF1062FA
+2026-06-24T15:09:03Z ERROR gateway.acmepay auth_declined merchant_id=M-5540 currency=JPY amount_minor=648800 code=13 reason=amount_invalid txn=TXN-34D764584AE0
+2026-06-24T15:09:05Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=2919 code=00 txn=TXN-9E24C4A8017D
+2026-06-24T15:09:21Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=KRW amount_minor=2284500 code=13 reason=amount_invalid txn=TXN-993EDA67ED98
+2026-06-24T15:09:27Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=AUD amount_minor=37948 code=00 txn=TXN-B639C0E31D06
+2026-06-24T15:11:36Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=EUR amount_minor=8608 code=00 txn=TXN-D2E2A3BFC863
+2026-06-24T15:11:49Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=26915 code=00 txn=TXN-86BD38BC8C84
+2026-06-24T15:12:11Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=35554200 code=13 reason=amount_exceeds_limit txn=TXN-5757737E23B6
+2026-06-24T15:12:12Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=4600300 code=13 reason=amount_invalid txn=TXN-8E285D50C3F6
+2026-06-24T15:12:27Z ERROR gateway.acmepay auth_declined merchant_id=M-5540 currency=JPY amount_minor=2457400 code=13 reason=amount_invalid txn=TXN-6CA5B9BA5449
+2026-06-24T15:13:42Z ERROR gateway.acmepay auth_declined merchant_id=M-1207 currency=JPY amount_minor=4941500 code=13 reason=amount_invalid txn=TXN-31B00F26654F
+2026-06-24T15:13:44Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=39054 code=00 txn=TXN-03B7D58468FA
+2026-06-24T15:13:53Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=15419700 code=13 reason=amount_invalid txn=TXN-3D139991847F
+2026-06-24T15:13:55Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=AUD amount_minor=24543 code=00 txn=TXN-016002E99817
+2026-06-24T15:14:05Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=INR amount_minor=845909 code=00 txn=TXN-49BEA82EFED7
+2026-06-24T15:14:16Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=USD amount_minor=37831 code=00 txn=TXN-2F61FEF031EC
+2026-06-24T15:14:47Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=EUR amount_minor=6915 code=00 txn=TXN-2FB3BCEED2DD
+2026-06-24T15:14:55Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=5248200 code=13 reason=amount_invalid txn=TXN-572B7A23C5B7
+2026-06-24T15:15:05Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=28407800 code=13 reason=amount_invalid txn=TXN-F337D59D83F1
+2026-06-24T15:15:20Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=2695 code=00 txn=TXN-1B94E6E71653
+2026-06-24T15:15:23Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=USD amount_minor=16706 code=00 txn=TXN-309DA9558413
+2026-06-24T15:16:44Z INFO gateway.northbridge auth_approved merchant_id=M-4821 currency=SGD amount_minor=35004 code=00 txn=TXN-C20D61E1E77B
+2026-06-24T15:16:51Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=1743100 code=13 reason=amount_invalid txn=TXN-B3837D6EE23A
+2026-06-24T15:16:52Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=USD amount_minor=18978 code=00 txn=TXN-DA98B7522511
+2026-06-24T15:16:54Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=INR amount_minor=773060 code=00 txn=TXN-270A88CCB4DA
+2026-06-24T15:16:58Z ERROR gateway.acmepay auth_declined merchant_id=M-9021 currency=JPY amount_minor=1462000 code=13 reason=amount_invalid txn=TXN-63BF6DF80956
+2026-06-24T15:17:08Z ERROR gateway.acmepay auth_declined merchant_id=M-4821 currency=JPY amount_minor=2969200 code=13 reason=amount_invalid txn=TXN-5E6B0A453623
+2026-06-24T15:17:09Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=1930300 code=13 reason=amount_invalid txn=TXN-F28338BB7316
+2026-06-24T15:17:22Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=USD amount_minor=17113 code=00 txn=TXN-2D0393A34634
+2026-06-24T15:19:32Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=39533700 code=13 reason=amount_invalid txn=TXN-B16D6A442065
+2026-06-24T15:19:35Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=AUD amount_minor=30031 code=00 txn=TXN-699EB7F307DF
+2026-06-24T15:20:11Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=1494100 code=13 reason=amount_exceeds_limit txn=TXN-5E6031D13DFE
+2026-06-24T15:20:18Z ERROR gateway.acmepay auth_declined merchant_id=M-2098 currency=JPY amount_minor=433300 code=13 reason=amount_invalid txn=TXN-C61ACC89F947
+2026-06-24T15:20:26Z INFO gateway.northbridge auth_declined merchant_id=M-3390 currency=AUD amount_minor=27017 code=54 reason=expired_card txn=TXN-C7A98D182D73
+2026-06-24T15:20:34Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=4942500 code=13 reason=amount_invalid txn=TXN-FD3CCF1ABACE
+2026-06-24T15:20:59Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=JPY amount_minor=4734700 code=13 reason=amount_exceeds_limit txn=TXN-705E7D58084B
+2026-06-24T15:21:05Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=EUR amount_minor=16180 code=00 txn=TXN-0D423E483692
+2026-06-24T15:21:15Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=INR amount_minor=716896 code=00 txn=TXN-DFCF44D876A9
+2026-06-24T15:21:24Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=13213900 code=13 reason=amount_exceeds_limit txn=TXN-D8BB8FBA3760
+2026-06-24T15:21:38Z INFO gateway.acmepay auth_declined merchant_id=M-3390 currency=EUR amount_minor=12403 code=51 reason=insufficient_funds txn=TXN-80D4C5E572DD
+2026-06-24T15:21:54Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=GBP amount_minor=5532 code=00 txn=TXN-954E17388A85
+2026-06-24T15:22:00Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=10860200 code=13 reason=amount_invalid txn=TXN-7D4EFB045F12
+2026-06-24T15:22:01Z ERROR gateway.acmepay auth_declined merchant_id=M-1207 currency=JPY amount_minor=4589900 code=13 reason=amount_invalid txn=TXN-F88FED8601FE
+2026-06-24T15:22:10Z ERROR gateway.acmepay auth_declined merchant_id=M-6612 currency=JPY amount_minor=2556400 code=13 reason=amount_invalid txn=TXN-75D0BD467015
+2026-06-24T15:22:19Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=SGD amount_minor=7722 code=00 txn=TXN-2445B460478A
+2026-06-24T15:23:38Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=37190700 code=13 reason=amount_exceeds_limit txn=TXN-EF20B1D38869
+2026-06-24T15:23:42Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=39752000 code=13 reason=amount_invalid txn=TXN-F525800F13AB
+2026-06-24T15:23:44Z INFO gateway.northbridge auth_approved merchant_id=M-1207 currency=SGD amount_minor=21897 code=00 txn=TXN-AD98FE63022C
+2026-06-24T15:23:44Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=12218000 code=13 reason=amount_exceeds_limit txn=TXN-5C834E43BE60
+2026-06-24T15:23:49Z ERROR gateway.northbridge auth_declined merchant_id=M-2098 currency=KRW amount_minor=16110100 code=13 reason=amount_exceeds_limit txn=TXN-93DCA36F6FD9
+2026-06-24T15:24:08Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=31107 code=00 txn=TXN-7CFFF33AEF1D
+2026-06-24T15:24:11Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=SGD amount_minor=37771 code=00 txn=TXN-1BFA895D23B9
+2026-06-24T15:24:32Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=4042700 code=13 reason=amount_invalid txn=TXN-95501DF608B4
+2026-06-24T15:24:47Z INFO gateway.northbridge auth_approved merchant_id=M-6612 currency=AUD amount_minor=5308 code=00 txn=TXN-7396B58195F7
+2026-06-24T15:25:01Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=GBP amount_minor=7783 code=00 txn=TXN-F4647C4E3CF5
+2026-06-24T15:25:08Z INFO gateway.northbridge auth_approved merchant_id=M-1207 currency=AUD amount_minor=34151 code=00 txn=TXN-7796C6DDC37D
+2026-06-24T15:25:12Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=33216000 code=13 reason=amount_exceeds_limit txn=TXN-9F97B88F96D6
+2026-06-24T15:25:20Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=AUD amount_minor=48093 code=00 txn=TXN-BC2242B4F48A
+2026-06-24T15:27:37Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=AUD amount_minor=18174 code=00 txn=TXN-950938931D2B
+2026-06-24T15:28:08Z INFO gateway.northbridge auth_approved merchant_id=M-1450 currency=SGD amount_minor=2034 code=00 txn=TXN-AE4F2EB24A4A
+2026-06-24T15:28:10Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=4050100 code=13 reason=amount_invalid txn=TXN-C51D350A2885
+2026-06-24T15:28:12Z ERROR gateway.acmepay auth_declined merchant_id=M-7734 currency=JPY amount_minor=2431900 code=13 reason=amount_invalid txn=TXN-D5385DBF6B91
+2026-06-24T15:28:27Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=22053800 code=13 reason=amount_invalid txn=TXN-DE4C09D55F66
+2026-06-24T15:30:34Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=4026900 code=13 reason=amount_invalid txn=TXN-66BAE78C429C
+2026-06-24T15:30:39Z INFO gateway.acmepay auth_approved merchant_id=M-6612 currency=GBP amount_minor=15505 code=00 txn=TXN-D766582EA6AA
+2026-06-24T15:31:03Z ERROR gateway.acmepay auth_declined merchant_id=M-1207 currency=JPY amount_minor=896600 code=13 reason=amount_exceeds_limit txn=TXN-95721912FD6D
+2026-06-24T15:31:16Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=USD amount_minor=3196 code=00 txn=TXN-D4537445225C
+2026-06-24T15:31:20Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=JPY amount_minor=4382000 code=13 reason=amount_invalid txn=TXN-BD2A7BC02CB2
+2026-06-24T15:32:37Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=6799800 code=13 reason=amount_invalid txn=TXN-C74DFB8F3FA6
+2026-06-24T15:32:46Z INFO gateway.acmepay auth_approved merchant_id=M-2098 currency=USD amount_minor=34563 code=00 txn=TXN-8BF39A3D191C
+2026-06-24T15:32:55Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=SGD amount_minor=16444 code=00 txn=TXN-F3C5EEBC5313
+2026-06-24T15:33:00Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=GBP amount_minor=23811 code=00 txn=TXN-CA50F46F3E7B
+2026-06-24T15:33:04Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=USD amount_minor=27201 code=00 txn=TXN-E9DD68946224
+2026-06-24T15:33:09Z ERROR gateway.northbridge auth_declined merchant_id=M-6612 currency=JPY amount_minor=3589200 code=13 reason=amount_invalid txn=TXN-648231A10CFA
+2026-06-24T15:33:16Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=28350600 code=13 reason=amount_exceeds_limit txn=TXN-F4C93136BC37
+2026-06-24T15:33:21Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=5417500 code=13 reason=amount_invalid txn=TXN-3A5CD040435C
+2026-06-24T15:34:53Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=23580300 code=13 reason=amount_invalid txn=TXN-4DEC3116CE38
+2026-06-24T15:34:58Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=JPY amount_minor=3990100 code=13 reason=amount_invalid txn=TXN-A07156B239D3
+2026-06-24T15:35:00Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=11162900 code=13 reason=amount_exceeds_limit txn=TXN-C62DDF5A36BA
+2026-06-24T15:35:17Z INFO gateway.acmepay auth_declined merchant_id=M-6612 currency=EUR amount_minor=12873 code=05 reason=do_not_honor txn=TXN-ADF54FC78BBC
+2026-06-24T15:35:26Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=32108 code=00 txn=TXN-B0558407A00C
+2026-06-24T15:36:44Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=5985000 code=13 reason=amount_exceeds_limit txn=TXN-6DDC5129B177
+2026-06-24T15:36:59Z INFO gateway.acmepay auth_approved merchant_id=M-8890 currency=GBP amount_minor=13748 code=00 txn=TXN-00AB9B274D8B
+2026-06-24T15:37:07Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=SGD amount_minor=14528 code=00 txn=TXN-85BA17C261F3
+2026-06-24T15:37:24Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=31149500 code=13 reason=amount_invalid txn=TXN-DCD926D1DE95
+2026-06-24T15:39:38Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=JPY amount_minor=2505800 code=13 reason=amount_invalid txn=TXN-59A1B20F2428
+2026-06-24T15:39:38Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=JPY amount_minor=698200 code=13 reason=amount_invalid txn=TXN-1A6C5B052D5C
+2026-06-24T15:39:47Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=AUD amount_minor=34954 code=00 txn=TXN-45A383E95493
+2026-06-24T15:39:50Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=EUR amount_minor=10349 code=00 txn=TXN-0FCF883914FF
+2026-06-24T15:39:52Z ERROR gateway.acmepay auth_declined merchant_id=M-1450 currency=JPY amount_minor=1660200 code=13 reason=amount_invalid txn=TXN-5004D070A100
+2026-06-24T15:40:01Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=AUD amount_minor=35854 code=00 txn=TXN-7EA95A14D2EC
+2026-06-24T15:40:18Z ERROR gateway.acmepay auth_declined merchant_id=M-3390 currency=JPY amount_minor=3426500 code=13 reason=amount_invalid txn=TXN-35875AE4DDBB
+2026-06-24T15:42:31Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=USD amount_minor=38066 code=00 txn=TXN-07A2A4B1991C
+2026-06-24T15:43:08Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=INR amount_minor=718357 code=00 txn=TXN-18F6CDC86295
+2026-06-24T15:43:17Z INFO gateway.northbridge auth_approved merchant_id=M-8890 currency=AUD amount_minor=4487 code=00 txn=TXN-92BA9CD69689
+2026-06-24T15:43:25Z ERROR gateway.acmepay auth_declined merchant_id=M-4821 currency=JPY amount_minor=2595200 code=13 reason=amount_invalid txn=TXN-71F4DE4D844A
+2026-06-24T15:43:26Z ERROR gateway.northbridge auth_declined merchant_id=M-5540 currency=KRW amount_minor=12874100 code=13 reason=amount_invalid txn=TXN-307B06644CCC
+2026-06-24T15:44:31Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=JPY amount_minor=1648800 code=13 reason=amount_invalid txn=TXN-1FA0E6D21D90
+2026-06-24T15:44:32Z INFO gateway.acmepay auth_approved merchant_id=M-3390 currency=EUR amount_minor=9729 code=00 txn=TXN-BA22D430042D
+2026-06-24T15:44:40Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=USD amount_minor=17289 code=00 txn=TXN-C05C371E813B
+2026-06-24T15:44:44Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=AUD amount_minor=9448 code=00 txn=TXN-462278C1DB69
+2026-06-24T15:44:56Z INFO gateway.acmepay auth_approved merchant_id=M-5540 currency=EUR amount_minor=7520 code=00 txn=TXN-0889C49AAC73
+2026-06-24T15:44:56Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=JPY amount_minor=5104000 code=13 reason=amount_invalid txn=TXN-4F895A6B18D3
+2026-06-24T15:45:04Z ERROR gateway.acmepay auth_declined merchant_id=M-2098 currency=JPY amount_minor=2727900 code=13 reason=amount_invalid txn=TXN-4C8106FD0688
+2026-06-24T15:45:04Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=32439100 code=13 reason=amount_invalid txn=TXN-39831BDD4F8C
+2026-06-24T15:46:42Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=JPY amount_minor=5757800 code=13 reason=amount_invalid txn=TXN-7C3E54D1E255
+2026-06-24T15:46:45Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=EUR amount_minor=7495 code=00 txn=TXN-06A8FC73B42B
+2026-06-24T15:46:56Z INFO gateway.northbridge auth_approved merchant_id=M-5540 currency=INR amount_minor=276795 code=00 txn=TXN-DBB07D141A47
+2026-06-24T15:46:58Z INFO gateway.acmepay auth_approved merchant_id=M-9021 currency=EUR amount_minor=18248 code=00 txn=TXN-8381A83A6087
+2026-06-24T15:47:28Z ERROR gateway.northbridge auth_declined merchant_id=M-7734 currency=KRW amount_minor=20982200 code=13 reason=amount_exceeds_limit txn=TXN-B2FCD5137339
+2026-06-24T15:49:35Z INFO gateway.acmepay auth_approved merchant_id=M-7734 currency=USD amount_minor=25274 code=00 txn=TXN-2C3760CB2119
+2026-06-24T15:49:39Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=INR amount_minor=848031 code=00 txn=TXN-529BF71DD843
+2026-06-24T15:49:50Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=KRW amount_minor=10602400 code=13 reason=amount_invalid txn=TXN-291CA439814E
+2026-06-24T15:49:53Z INFO gateway.acmepay auth_approved merchant_id=M-4821 currency=USD amount_minor=633 code=00 txn=TXN-4C0394F903A8
+2026-06-24T15:49:54Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=35253800 code=13 reason=amount_exceeds_limit txn=TXN-BD363B681BDF
+2026-06-24T15:49:59Z ERROR gateway.acmepay auth_declined merchant_id=M-4821 currency=JPY amount_minor=1856100 code=13 reason=amount_invalid txn=TXN-62C1698891EA
+2026-06-24T15:50:05Z ERROR gateway.northbridge auth_declined merchant_id=M-8890 currency=KRW amount_minor=18622600 code=13 reason=amount_exceeds_limit txn=TXN-8F156F015AE3
+2026-06-24T15:50:07Z INFO gateway.northbridge auth_approved merchant_id=M-7734 currency=INR amount_minor=15179 code=00 txn=TXN-13787197B5B1
+2026-06-24T15:52:36Z ERROR gateway.acmepay auth_declined merchant_id=M-1450 currency=JPY amount_minor=4471000 code=13 reason=amount_invalid txn=TXN-2A94A0203410
+2026-06-24T15:52:38Z INFO gateway.northbridge auth_approved merchant_id=M-9021 currency=INR amount_minor=486659 code=00 txn=TXN-9605313E9AAD
+2026-06-24T15:53:11Z INFO gateway.acmepay auth_approved merchant_id=M-1207 currency=EUR amount_minor=24888 code=00 txn=TXN-604CDEE3E18D
+2026-06-24T15:53:12Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=JPY amount_minor=4658900 code=13 reason=amount_exceeds_limit txn=TXN-6894832287F9
+2026-06-24T15:53:21Z ERROR gateway.northbridge auth_declined merchant_id=M-4821 currency=KRW amount_minor=12906900 code=13 reason=amount_invalid txn=TXN-1F08E524DAA6
+2026-06-24T15:53:27Z ERROR gateway.northbridge auth_declined merchant_id=M-1450 currency=KRW amount_minor=25081100 code=13 reason=amount_invalid txn=TXN-FC9948D1D40F
+2026-06-24T15:55:31Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=KRW amount_minor=2004200 code=13 reason=amount_invalid txn=TXN-7152F3B78719
+2026-06-24T15:55:37Z INFO gateway.northbridge auth_approved merchant_id=M-2098 currency=INR amount_minor=342190 code=00 txn=TXN-0362DD70D0D3
+2026-06-24T15:56:02Z INFO gateway.northbridge auth_approved merchant_id=M-3390 currency=SGD amount_minor=29687 code=00 txn=TXN-527DED47B470
+2026-06-24T15:56:10Z ERROR gateway.northbridge auth_declined merchant_id=M-3390 currency=JPY amount_minor=1145200 code=13 reason=amount_invalid txn=TXN-32C90825213C
+2026-06-24T15:56:12Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=14785 code=00 txn=TXN-7801B00D7F6D
+2026-06-24T15:56:14Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=13305800 code=13 reason=amount_invalid txn=TXN-8D9FFF298785
+2026-06-24T15:56:15Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=KRW amount_minor=5380900 code=13 reason=amount_invalid txn=TXN-C93EDE0CE680
+2026-06-24T15:56:22Z INFO gateway.northbridge auth_declined merchant_id=M-7734 currency=INR amount_minor=640292 code=54 reason=expired_card txn=TXN-AF5109ECF304
+2026-06-24T15:59:14Z INFO gateway.acmepay auth_approved merchant_id=M-1450 currency=EUR amount_minor=1329 code=00 txn=TXN-70D773627A7B
+2026-06-24T15:59:16Z ERROR gateway.acmepay auth_declined merchant_id=M-8890 currency=JPY amount_minor=4481300 code=13 reason=amount_exceeds_limit txn=TXN-E6EF5364B92B
+2026-06-24T15:59:29Z INFO gateway.northbridge auth_approved merchant_id=M-1450 currency=AUD amount_minor=24326 code=00 txn=TXN-6528B6719271
+2026-06-24T15:59:29Z ERROR gateway.northbridge auth_declined merchant_id=M-1207 currency=JPY amount_minor=3423600 code=13 reason=amount_invalid txn=TXN-479AD73E3190
