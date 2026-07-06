@@ -41,5 +41,17 @@ def test_to_minor_units_is_case_insensitive():
     assert to_minor_units("5.00", "usd") == 500
 
 
+@pytest.mark.parametrize(
+    "currency,amount,expected",
+    [
+        ("JPY", "3527", 3527),
+        ("KRW", "155575", 155575),
+        (" jpy ", "2843", 2843),
+    ],
+)
+def test_to_minor_units_zero_decimal_currency(currency, amount, expected):
+    assert to_minor_units(amount, currency) == expected
+
+
 def test_normalize_currency():
     assert normalize_currency(" eur ") == "EUR"

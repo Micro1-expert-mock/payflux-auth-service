@@ -12,6 +12,7 @@ Number = Union[int, float, str, Decimal]
 
 _CENTS = Decimal("100")
 _ONE = Decimal("1")
+_ZERO_DECIMAL_CURRENCIES = frozenset({"JPY", "KRW"})
 
 
 def normalize_currency(currency: str) -> str:
@@ -26,5 +27,6 @@ def to_minor_units(amount: Number, currency: str) -> int:
         >>> to_minor_units("12.50", "USD")
         1250
     """
-    value = Decimal(str(amount)) * _CENTS
+    scale = _ONE if normalize_currency(currency) in _ZERO_DECIMAL_CURRENCIES else _CENTS
+    value = Decimal(str(amount)) * scale
     return int(value.quantize(_ONE, rounding=ROUND_HALF_UP))
